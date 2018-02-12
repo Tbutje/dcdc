@@ -90,3 +90,4 @@ pom.xml.tag
 *.ini
 *.properties
 target/
+MANIFEST.MF
