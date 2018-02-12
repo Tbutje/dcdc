@@ -85,10 +85,8 @@ nb-configuration.xml
 
 # Misc
 *.swp
-release.properties
 pom.xml.releaseBackup
 pom.xml.tag
-target/classes/META-INF/maven/nl.nn/dcdc/pom.properties
-.classpath
 *.ini
 *.properties
+target/
