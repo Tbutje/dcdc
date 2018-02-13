@@ -92,3 +92,4 @@ pom.xml.tag
 target/
 MANIFEST.MF
 bin/
+.classpath

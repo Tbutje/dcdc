@@ -12,7 +12,7 @@ public class App {
 
 		System.out.println("Working Directory = " + System.getProperty("user.dir"));
 
-		XmlGenerator xmlgenerator = new XmlGenerator();
+		XmlGenerator.main( args );
 		TibcoQueue.main(args);
 
 	}

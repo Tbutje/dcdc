@@ -1,18 +1,6 @@
 package nl.nn.dcdc.api;
 
-import java.io.File;
 import java.util.Properties;
-import java.util.Vector;
-
-import javax.jms.Connection;
-import javax.jms.ConnectionFactory;
-import javax.jms.JMSException;
-import javax.jms.MessageProducer;
-import javax.jms.Queue;
-import javax.jms.Session;
-import javax.jms.TextMessage;
-
-import com.tibco.tibjms.TibjmsQueueConnectionFactory;
 
 public class ConfigReader {
 
