@@ -3,4 +3,6 @@
 1. Clone project from Github
 2. Import Maven Projects from Eclipse
 
-## Missing dependencies
+## Manually add these dependencies
+* tibjms-4.4.0.jar
+* tibjmsadmin.jar
