@@ -91,3 +91,4 @@ pom.xml.tag
 *.properties
 target/
 MANIFEST.MF
+bin/
